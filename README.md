@@ -1,2 +1,2 @@
 # ToolTip Fix
-Fixes ToolTips from runnning off the screen
+Fixes ToolTipFix from being laggy
